@@ -63,12 +63,12 @@ enum
     SPEEDTEST_MESSAGE_EOF
 };
 
-#define SS_DEFAULT_GROUP "SSProvider"
-#define SSR_DEFAULT_GROUP "SSRProvider"
-#define V2RAY_DEFAULT_GROUP "V2RayProvider"
-#define SOCKS_DEFAULT_GROUP "SocksProvider"
-#define HTTP_DEFAULT_GROUP "HTTPProvider"
-#define TROJAN_DEFAULT_GROUP "TrojanProvider"
-#define SNELL_DEFAULT_GROUP "SnellProvider"
+#define SS_DEFAULT_GROUP "SS节点测速"
+#define SSR_DEFAULT_GROUP "SSR节点测速"
+#define V2RAY_DEFAULT_GROUP "V2Ray节点测速"
+#define SOCKS_DEFAULT_GROUP "Socks节点测速"
+#define HTTP_DEFAULT_GROUP "HTTP节点测速"
+#define TROJAN_DEFAULT_GROUP "Trojan节点测速"
+#define SNELL_DEFAULT_GROUP "Snell节点测速"
 
 #endif // PRINTOUT_H_INCLUDED

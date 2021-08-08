@@ -436,7 +436,7 @@ std::string exportRender(std::string resultpath, std::vector<nodeInfo> &nodes, b
     std::string gentime = "Generated at " + getTime(3) + " by CM.在线测速";
     std::string traffic = "Traffic used : " + speedCalc((double)total_traffic) + ". ";
     std::string about = "By Stair Speedtest Reborn " VERSION ".";
-    std::string title = "  Stair Speedtest Reborn Result Table ( " VERSION " )  ";
+    std::string title = "  CM.在线测速  ";
     //SSRSpeed style
     if(export_as_ssrspeed)
     {

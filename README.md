@@ -11,3 +11,15 @@ Fork From [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairsp
    std::string gentime = "Generated at " + getTime(3) + " by CM.在线测速";
 ```
 4.如果需要更改其他内容，请自行摸索
+
+# 自定义标题
+1.Fork本仓库，如已Fork请忽略
+
+2.切换到 ./src/renderer.cpp 搜索"Stair Speedtest Reborn Result Table"=439 将行替换为：
+```
+    std::string title = "自定义标题";
+```
+
+# 对生成图片进行汉化【废】
+在汉化前，请提前备份好 ./src/renderer.cpp
+自行汉化吧，如有错误，请自行恢复备份

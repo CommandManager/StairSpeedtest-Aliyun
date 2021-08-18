@@ -24,4 +24,7 @@ Fork From [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairsp
 
 # 对生成图片进行汉化【废】
 在汉化前，请提前备份好 ./src/renderer.cpp
+
 自行汉化吧，如有错误，请自行恢复备份
+
+如果想要中文版但不想自己弄的话，可以尝试一下这个分支：[中文Beta](https://github.com/ntskey001/stairspeedtest-ChineseBeta)

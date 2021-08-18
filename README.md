@@ -1,6 +1,8 @@
 # Stair Speedtest Reborn 个人修改版
 Fork From [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn)
 
+其他版本：[中文Beta](https://github.com/ntskey001/stairspeedtest-ChineseBeta)
+
 # 如何进行个人修改？
 1.Fork本仓库
 

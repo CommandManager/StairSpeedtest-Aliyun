@@ -1,6 +1,6 @@
 #ifndef VERSION_H_INCLUDED
 #define VERSION_H_INCLUDED
 
-#define VERSION "阿里云VPS专版"
+#define VERSION "腾讯云专版"
 
 #endif // VERSION_H_INCLUDED
